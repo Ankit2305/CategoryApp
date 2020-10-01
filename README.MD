@@ -1,5 +1,4 @@
 # Screenshots
-good project bhai
 <img src="./screenshots/screenshot1.png" width="300px"> <img src="./screenshots/screenshot2.png" width="300px">
 
 ---
